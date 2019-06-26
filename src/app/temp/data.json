@@ -1,0 +1,46 @@
+{"uCurrency":false,
+"labels":{
+"title":"Invoice",
+"from":"From",
+"to":"To",
+"number":"Invoice#",
+"date":"Invoice Date",
+"dueDate":"Due Date",
+"description":"Item",
+"quantity":"HRS/QTY",
+"rate":"Rate",
+"vat":"VAT",
+"amount":"Amount",
+"subTotal":"Subtotal",
+"discount":"Discount",
+"tax":"Tax",
+"shipping":"Shipping",
+"total":"Total"
+},
+"from":"Name\nCompany\nAddress\nCity, State, Zip\nCountry",
+"to":"Company\nAddress\nCity, State, Zip\nCountry",
+"number":null,
+"notes":"",
+"currency":{
+"key":{
+"symbol":"AED","name":"United Arab Emirates Dirham","symbolNative":"د.إ.‏",
+"decimalDigits":2,
+"rounding":0,
+"code":"AED",
+"namePlural":"UAE dirhams"
+},
+"value":"AED"
+},
+"discountFormat":{
+"key":"Flat Discount",
+"value":"flat"
+},
+"taxFormat":{
+"key":"VAT",
+"value":"vat"
+},
+"shippingFormat":{
+"key":"Off",
+"value":"off"
+}
+}
